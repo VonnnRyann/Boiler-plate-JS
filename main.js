@@ -18,6 +18,6 @@ console.log(2+3);
 /* document.getElementsByClassName('blue').innerHTML = "4"+"3";
 console.log('2'+'3')
  */
-/* 20 is a text
+/* 20 is a NUMBER
 "20" this is a number with a string
 "twenty" this is a text */
